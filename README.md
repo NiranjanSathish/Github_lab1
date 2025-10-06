@@ -121,7 +121,7 @@ Passwords scoring 70+ are classified as "strong."
 
 ---
 
-## 🧪 Testing Framework
+## Testing Framework
 
 ### Running Tests
 
